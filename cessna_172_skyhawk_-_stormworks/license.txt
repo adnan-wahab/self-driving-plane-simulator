@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cessna 172 Skyhawk - Stormworks
+* source:	https://sketchfab.com/3d-models/cessna-172-skyhawk-stormworks-49ac79d106934cb299f3c5ab645f9bda
+* author:	ThalesMML (https://sketchfab.com/ThalesMML)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cessna 172 Skyhawk - Stormworks" (https://sketchfab.com/3d-models/cessna-172-skyhawk-stormworks-49ac79d106934cb299f3c5ab645f9bda) by ThalesMML (https://sketchfab.com/ThalesMML) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
